@@ -1,4 +1,4 @@
-FROM python:2-alpine@sha256:bc7605e2631566fb546ac03361412cf4fe19f02afe4a1ea86fbd74681da42929
+FROM python:2-alpine@sha256:724d0540eb56ffaa6dd770aa13c3bc7dfc829dec561d87cb36b2f5b9ff8a760a
 
 MAINTAINER Leonardo Gatica <lgatica@protonmail.com>
 
